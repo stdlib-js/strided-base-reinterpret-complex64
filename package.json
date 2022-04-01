@@ -1,0 +1,31 @@
+{
+  "name": "@stdlib/strided-base-reinterpret-complex64",
+  "version": "0.0.0",
+  "description": "Reinterpret a Complex64Array as a Float32Array.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/strided-base-reinterpret-complex64.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "base",
+    "strided",
+    "array",
+    "complex",
+    "float32",
+    "reinterpret",
+    "cast",
+    "view"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
