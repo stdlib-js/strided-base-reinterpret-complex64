@@ -198,11 +198,6 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
-## License
-
-See [LICENSE][stdlib-license].
-
-
 ## Copyright
 
 Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
@@ -218,11 +213,11 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/strided-base-reinterpret-complex64.svg
 [npm-url]: https://npmjs.org/package/@stdlib/strided-base-reinterpret-complex64
 
-[test-image]: https://github.com/stdlib-js/strided-base-reinterpret-complex64/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/strided-base-reinterpret-complex64/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/strided-base-reinterpret-complex64/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/strided-base-reinterpret-complex64/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/strided-base-reinterpret-complex64/main.svg
-[coverage-url]: https://codecov.io/github/stdlib-js/strided-base-reinterpret-complex64?branch=v0.1.0
+[coverage-url]: https://codecov.io/github/stdlib-js/strided-base-reinterpret-complex64?branch=main
 
 <!--
 
@@ -245,8 +240,6 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [umd-url]: https://github.com/stdlib-js/strided-base-reinterpret-complex64/tree/umd
 [esm-url]: https://github.com/stdlib-js/strided-base-reinterpret-complex64/tree/esm
 [branches-url]: https://github.com/stdlib-js/strided-base-reinterpret-complex64/blob/main/branches.md
-
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/strided-base-reinterpret-complex64/main/LICENSE
 
 [@stdlib/array/complex64]: https://github.com/stdlib-js/stdlib
 
