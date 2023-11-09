@@ -108,7 +108,7 @@ var re = view[ 0 ];
 
 var im = view[ 1 ];
 // returns 6.0
-````
+```
 
 </section>
 
@@ -241,9 +241,9 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/strided-base-reinterpret-complex64/tree/esm
 [branches-url]: https://github.com/stdlib-js/strided-base-reinterpret-complex64/blob/main/branches.md
 
-[@stdlib/array/complex64]: https://github.com/stdlib-js/stdlib
+[@stdlib/array/complex64]: https://github.com/stdlib-js/array-complex64
 
-[@stdlib/array/float32]: https://github.com/stdlib-js/stdlib
+[@stdlib/array/float32]: https://github.com/stdlib-js/array-float32
 
 </section>
 
