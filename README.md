@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import reinterpret from 'https://cdn.jsdelivr.net/gh/stdlib-js/strided-base-reinterpret-complex64@deno/mod.js';
+import reinterpret from 'https://cdn.jsdelivr.net/gh/stdlib-js/strided-base-reinterpret-complex64@v0.2.0-deno/mod.js';
 ```
 
 #### reinterpret( x, offset )
@@ -118,7 +118,7 @@ var im = view[ 1 ];
 import Complex64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-complex64@deno/mod.js';
 import real from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-real@deno/mod.js';
 import imag from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-imag@deno/mod.js';
-import reinterpret from 'https://cdn.jsdelivr.net/gh/stdlib-js/strided-base-reinterpret-complex64@deno/mod.js';
+import reinterpret from 'https://cdn.jsdelivr.net/gh/stdlib-js/strided-base-reinterpret-complex64@v0.2.0-deno/mod.js';
 
 // Define a complex number array:
 var x = new Complex64Array( [ 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0 ] );
