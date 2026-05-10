@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-05-10)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`3a68571`](https://github.com/stdlib-js/stdlib/commit/3a68571c9986c75439da1e4ca96055bef4b892ad) - **docs:** improve doctests for complex number typed arrays in `strided` [(#12032)](https://github.com/stdlib-js/stdlib/pull/12032) _(by Karan Anand)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Karan Anand
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2026-02-08)
