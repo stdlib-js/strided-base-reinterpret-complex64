@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8f410a3`](https://github.com/stdlib-js/stdlib/commit/8f410a3a753afc40f7e5b6bf0431e8cf70154865) - **test:** use correct `float32` imports in `strided/base` [(#12059)](https://github.com/stdlib-js/stdlib/pull/12059) _(by Karan Anand)_
 -   [`3a68571`](https://github.com/stdlib-js/stdlib/commit/3a68571c9986c75439da1e4ca96055bef4b892ad) - **docs:** improve doctests for complex number typed arrays in `strided` [(#12032)](https://github.com/stdlib-js/stdlib/pull/12032) _(by Karan Anand)_
 
 </details>
